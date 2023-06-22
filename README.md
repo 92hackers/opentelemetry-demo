@@ -9,6 +9,7 @@
 5. Add Harbor for container images registry
 6. Add ArgoCD for Continus Delivery
 7. Add TiKV-Chaos for chaos engineering.
+8. Add Load balancer, Expose services to outside.
 
 ## Welcome to the OpenTelemetry Astronomy Shop Demo
 
